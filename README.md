@@ -22,7 +22,7 @@ This project focuses on a 12-bit segmented DAC with thermometer-coded 6-bit MSBs
 
 *****************
 ### Implementation:
-<img width="1788" height="919" alt="image" src="https://github.com/user-attachments/assets/3ca82bdd-5272-4718-b708-5c384e384bf4" />
+<img width="1100" height="542" alt="image" src="https://github.com/user-attachments/assets/10209b46-93fc-48db-b91a-232e0ef3c612" />
 ### Testbench Schematics:
 <img width="1593" height="573" alt="image" src="https://github.com/user-attachments/assets/d130644c-1e5c-40e0-863f-b3511db9c6e1" />
 ### Static performance:
